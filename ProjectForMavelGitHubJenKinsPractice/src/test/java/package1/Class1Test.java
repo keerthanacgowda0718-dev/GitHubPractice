@@ -12,7 +12,11 @@ public class Class1Test {
 		Reporter.log("*****Hii*****",true);
 				Reporter.log("*****Hii*****",true);
 
+				Reporter.log("*****Hii*****",true);
+		
+
 	}
 
 }
+
 
